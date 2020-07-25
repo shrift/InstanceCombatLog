@@ -1,0 +1,7 @@
+## Interface: 80205
+## Title: Instance Combat Log
+## Author: shrift
+## Version: 0.1
+## Notes: Automatically turns on combat log in instances.
+
+main.lua
